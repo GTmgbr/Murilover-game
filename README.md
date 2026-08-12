@@ -2,6 +2,8 @@
 
 Durante a partida, o jogador deve sobreviver o maior tempo possível, desviando de obstáculos como livros voadores, morcegos e caixas, enquanto coleta gemas para aumentar sua pontuação. O personagem possui pulo e double jump, além de um sistema de vidas e itens especiais.
 
+O projeto também explora diferentes recursos da Unity, incluindo sistema de física e colisões, utilização de sprites, câmera 2D, scripts para controle e movimentação do personagem e Parallax Scrolling para criar uma sensação de profundidade e movimento no cenário.
+
 O jogo foi desenvolvido em dupla para a disciplina de Desenvolvimento de Jogos da graduação.
 
 
