@@ -1,6 +1,6 @@
 **Murilover Game** é um jogo do gênero Endless Runner, desenvolvido na Unity utilizando C#. O jogador controla Murilover, um estudante obcecado por estudos e boas notas que está constantemente fugindo de festas, encontros e outras distrações para continuar estudando.
 
-Durante a partida, o jogador deve sobreviver o maior tempo possível, desviando de obstáculos como livros voadores, morcegos e caixas, enquanto coleta gemas para aumentar sua pontuação. O personagem double jump, além de um sistema de vidas, pontuação e itens especiais.
+Durante a partida, o jogador deve sobreviver o maior tempo possível, desviando de obstáculos como livros voadores, morcegos e caixas, enquanto coleta gemas para aumentar sua pontuação. O personagem possui double jump, além de um sistema de vidas, pontuação e itens especiais.
 
 O projeto também explora diferentes recursos da Unity, incluindo sistema de física e colisões, utilização de sprites, câmera 2D, scripts para controle e movimentação do personagem e Parallax Scrolling para criar uma sensação de profundidade e movimento no cenário.
 
